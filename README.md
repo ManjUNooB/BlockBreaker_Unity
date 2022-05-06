@@ -1,9 +1,10 @@
 # BrokenBreaker
 
 Unityで制作したブロック崩し
+Block Breaker created with Unity
  
 # DEMO
-
+画像は後で追加予定
 sorry... image's add later
  
 # Features
@@ -17,16 +18,20 @@ sorry... image's add later
 # Installation
  
 [Unity_VersionArchive](https://unity3d.com/jp/get-unity/download/archive)  
+サイトに飛んでUnity落としたら良いよ
 Go this Site and DL UnityVersion
 
 # Usage
  
  プロジェクト落としたらそのままシーン叩けば  
  UnityをインストールしてるならUnityHubが開いてくれるハズ
+ If you drop the project, just hit scene.  
+ If you have Unity installed, UnityHub will open it for you.  
  
 # Note
 
- Not responsible
+自己責任でPlz
+At your own risk.
 
  
 # Author
