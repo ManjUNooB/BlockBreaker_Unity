@@ -24,14 +24,14 @@ Go this Site and DL UnityVersion
 # Usage
  
  プロジェクト落としたらそのままシーン叩けば  
- UnityをインストールしてるならUnityHubが開いてくれるハズ
+ UnityをインストールしてるならUnityHubが開いてくれるハズ  
  If you drop the project, just hit scene.  
  If you have Unity installed, UnityHub will open it for you.  
  
 # Note
 
-自己責任でPlz
-At your own risk.
+自己責任でPlz  
+At your own risk.  
 
  
 # Author
