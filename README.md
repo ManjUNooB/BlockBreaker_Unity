@@ -1,15 +1,16 @@
 # BrokenBreaker
 
-Unityで制作したブロック崩し
+Unityで制作したブロック崩し  
 Block Breaker created with Unity
  
 # DEMO
-画像は後で追加予定
+画像は後で追加予定  
 sorry... image's add later
  
 # Features
 
-とにかくきれいに作っていくをコンセプトにブロック崩しを制作。
+とにかくきれいに作っていくをコンセプトにブロック崩しを制作。  
+The concept of creating a block breaker is to make it beautifully anyway.
  
 # Requirement
  
