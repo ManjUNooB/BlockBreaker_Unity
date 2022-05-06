@@ -18,7 +18,7 @@ sorry... image's add later
 # Installation
  
 [Unity_VersionArchive](https://unity3d.com/jp/get-unity/download/archive)  
-サイトに飛んでUnity落としたら良いよ
+サイトに飛んでUnity落としたら良いよ  
 Go this Site and DL UnityVersion
 
 # Usage
@@ -36,8 +36,8 @@ At your own risk.
  
 # Author
  
-* Ryuga Sakakibara 榊原龍我
-* HAL Nagoya HAL名古屋専門学校
+* Ryuga Sakakibara 榊原龍我  
+* HAL Nagoya HAL名古屋専門学校  
 * e-mail : ryugahal12@gmail.com
 * [Twitter](https://twitter.com/Manju_HALnagoya)
  
